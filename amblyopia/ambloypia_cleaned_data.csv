@@ -1,4 +1,4 @@
-sr #,Age,Amblyopic eye,Vision at presentation,After 1 week,After 2 weeks,After 3 weeks,After 4 weeks,After 6 weeks,After 8 weeks,After 12 weeks,After 16 weeks,After 20 weeks,After 24 weeks,After 28 weeks,After 32 Weeks,Poor compliance case,Squint,Holding Vision,Refrective error
+sr #,Age,Amblyopic eye,Vision at presentation,After 1 week,After 2 weeks,After 3 weeks,After 4 weeks,After 6 weeks,After 8 weeks,After 12 weeks,After 16 weeks,After 20 weeks,After 24 weeks,After 28 weeks,After 32 Weeks,Poor compliance case,Squint,Holding Vision (Months),Refractive Error
 1,6.0,right,0.17,0.25,0.33,0.5,0.67,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,ET,6,-3.75
 2,6.0,right,0.25,0.33,0.5,0.67,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,no,ET,6,-3.0
 3,5.0,left,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,yes,NO,6,1.18
